@@ -15,11 +15,11 @@ Table of Contents
   * [Short Demo Agenda](#short-demo-agenda)
   * [Long Demo Agenda](#long-demo-agenda)
 * [Examples](#examples)
-* [Documentation](#documentation)
-  * [Features](#features)
+* [About](#about)
+* [Considerations](#considerations)
+  * [Publicity](#publicity)
 * [Milestones](#milestones)
   * [Milestone 1](#milestone-1)
-* [Publicity](#publicity)
 * [Connect](#connect)
 * [Resources](#resources)
 * [Code of Conduct](#code-of-conduct)
@@ -37,19 +37,17 @@ Table of Contents
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
-## Documentation
+## About
   
-### Features
+### Considerations
+
+### Publicity
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
 ## Milestones
 
 ### Milestone 1
-
-:top: <sub>[**Back to Top**](#table-of-contents)</sub>
-
-## Publicity
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
