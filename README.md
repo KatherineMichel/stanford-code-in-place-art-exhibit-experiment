@@ -16,7 +16,7 @@ Table of Contents
   * [Long Demo Agenda](#long-demo-agenda)
 * [Examples](#examples)
 * [About](#about)
-* [Considerations](#considerations)
+  * [Considerations](#considerations)
   * [Publicity](#publicity)
 * [Milestones](#milestones)
   * [Milestone 1](#milestone-1)
