@@ -55,6 +55,8 @@ Table of Contents
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
-## License
+## Copyright
+
+© 2020-Present Katherine Michel. All Rights Reserved.
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
