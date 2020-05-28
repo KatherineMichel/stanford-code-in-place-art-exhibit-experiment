@@ -19,8 +19,10 @@ Table of Contents
   * [Features](#features)
 * [Milestones](#milestones)
   * [Milestone 1](#milestone-1)
-* [Code of Conduct](#code-of-conduct)
+* [Publicity](#publicity)
 * [Connect](#connect)
+* [Resources](#resources)
+* [Code of Conduct](#code-of-conduct)
 * [License](#license)
 
 ## Demo Videos
@@ -47,13 +49,21 @@ Table of Contents
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
-## Code of Conduct
-
-Those who engage with this project are expected to follow my [Code of Conduct](https://github.com/KatherineMichel/.github/blob/master/CODE_OF_CONDUCT.md). 
+## Publicity
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
 ## Connect
+
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
+
+## Resources
+
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
+
+## Code of Conduct
+
+Those who engage with this project are expected to follow my [Code of Conduct](https://github.com/KatherineMichel/.github/blob/master/CODE_OF_CONDUCT.md). 
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
