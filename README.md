@@ -1,4 +1,4 @@
-# Template
+# Stanford Code in Place Exhibit
 
 # Project
 
