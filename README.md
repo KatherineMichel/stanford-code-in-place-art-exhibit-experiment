@@ -49,6 +49,8 @@ Table of Contents
 
 ## Code of Conduct
 
+Those who engage with this project are expected to follow my [Code of Conduct](https://github.com/KatherineMichel/.github/blob/master/CODE_OF_CONDUCT.md). 
+
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
 ## Connect
