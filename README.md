@@ -41,6 +41,15 @@ Table of Contents
   
 ### Considerations
 
+Possible Galleries
+
+<!--
+https://www.wichitaartmuseum.org/exhibitions/current | WAM [Exhibitions - Current Exhibitions]
+https://www.hutchinsonartcenter.net/what-we-do | What We Do — Hutchinson Art Center
+https://www.hutchinsonartcenter.net/contact-us | Hutchinson Art Center
+https://www.hutchgov.com/1225/Chamber-Art-Gallery | | Hutchinson, KS
+-->
+
 ### Publicity
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
