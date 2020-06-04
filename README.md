@@ -6,7 +6,7 @@ Photo and credit, badges
 
 ## Introduction
 
-For my [Stanford Code in Place Final Project](https://github.com/KatherineMichel/stanford-code-in-place-final-project), I created a program that downloads a random pet photo from the Unsplash curated "Personable Pets" collection, modifies it with a randomly chosen image filter algorithm, and tweets the image on the Simba Friends Bot Twitter account.
+For my [Stanford Code in Place Final Project](https://github.com/KatherineMichel/stanford-code-in-place-final-project), I created a program that downloads a random pet photo from the Unsplash curated "Personable Pets" collection, modifies it with a randomly chosen image filter algorithm, and tweets the image on the [Simba Friends Bot](https://twitter.com/SimbaFriendsBot) Twitter account.
 
 As I looked at the images tweeted, I began to see what I consider to be "found art." This gave me the idea of intentionally creating a small exhibit of algorithmically generated artwork. 
 
