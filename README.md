@@ -8,34 +8,35 @@ Photo and credit, badges
 
 For my [Stanford Code in Place Final Project](https://github.com/KatherineMichel/stanford-code-in-place-final-project), I created a program that downloads a random pet photo from the Unsplash curated "Personable Pets" collection, modifies it with a randomly chosen image filter algorithm, and tweets the image on the [Simba Friends Bot](https://twitter.com/SimbaFriendsBot) Twitter account.
 
-As I looked at the images tweeted, I began to see what I consider to be "found art." This gave me the idea of intentionally creating a small exhibit of algorithmically generated artwork. 
+As I looked at the images tweeted, I was awestruck by one in particular and considered it to be "found art." This gave me the idea of intentionally creating a small exhibit of algorithmically generated artwork. 
 
-This is an idea I've never of thought of before. I have no idea if it would be of interest to people who enjoy traditional art or if it would be considered some sort of sacrilege. In my view, artwork often reflects the human condition. A computer cannot replace that. However, "art" can mean many things. For example, people sometimes say there is an "art and a science" to computer programming. There is joy in building, discovering, and sharing. 
+This is an idea I've never of thought of before. I have no idea if it would be of interest to people who enjoy traditional art or if it would be considered some sort of sacrilege. 
+
+My intention would not be to "replace" traditional artwork. Artwork often reflects the human condition. That, by its very nature, simply cannot be replicated by a computer. I think paradoxically, by looking at artwork created by an algorithm, we can actually further examine and appreciate what the purpose and value of traditional artwork is. 
+
+However, "art" can mean many things. For example, people sometimes say there is an "art and a science" to computer programming. Believe it or not, there is a lot of decision-making and creativity in programming. My exhibit will be about the joy in building, inventing, discovering, and sharing, including "accidental" artwork. 
 
 ### Special Info
 
 Table of Contents
 -----------------
 
+* [Connect](#connect)
+* [Examples](#examples)
+* [About](#about)
+  * [Possible Art Galleries](#possible-art-galleries)
+  * [Publicity](#publicity)
+  * [Other Considerations](#other-considerations)
+* [Additional Resources](#additional-resources)
 * [Demo Videos](#demo-videos)
   * [Short Demo Agenda](#short-demo-agenda)
   * [Long Demo Agenda](#long-demo-agenda)
-* [Examples](#examples)
-* [About](#about)
-  * [Considerations](#considerations)
-  * [Publicity](#publicity)
 * [Milestones](#milestones)
   * [Milestone 1](#milestone-1)
-* [Connect](#connect)
-* [Resources](#resources)
 * [Code of Conduct](#code-of-conduct)
 * [License](#license)
 
-## Demo Videos
-
-### Short Demo Agenda
-
-### Long Demo Agenda
+## Connect
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
@@ -45,9 +46,7 @@ Table of Contents
 
 ## About
   
-### Considerations
-
-#### Possible Art Galleries
+### Possible Art Galleries
 
 * [Wichita Art Museum](https://www.wichitaartmuseum.org/)
 * [Hutchinson Art Center](https://www.hutchinsonartcenter.net/)
@@ -56,19 +55,25 @@ Table of Contents
 
 ### Publicity
 
+### Considerations
+
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
+
+## Additional Resources
+
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
+
+## Demo Videos
+
+### Short Demo Agenda
+
+### Long Demo Agenda
+
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
 ## Milestones
 
 ### Milestone 1
-
-:top: <sub>[**Back to Top**](#table-of-contents)</sub>
-
-## Connect
-
-:top: <sub>[**Back to Top**](#table-of-contents)</sub>
-
-## Resources
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
