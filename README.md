@@ -6,6 +6,12 @@ Photo and credit, badges
 
 ## Introduction
 
+For my [Stanford Code in Place Final Project](https://github.com/KatherineMichel/stanford-code-in-place-final-project), I created a program that downloads a random pet photo from the Unsplash curated "Personable Pets" collection, modifies it with a randomly chosen image filter algorithm, and tweets the image on the Simba Friends Bot Twitter account.
+
+As I looked at the images tweeted, I began to see what I consider to be "found art." This gave me the idea of intentionally creating a small exhibit of algorithmically generated artwork. 
+
+This is an idea I've never of thought of before. I have no idea if it would be of interest to people who enjoy traditional art or if it would be considered some sort of sacrilege. In my view, artwork often reflects the human condition. A computer cannot replace that. However, "art" can mean many things. For example, people sometimes say there is an "art and a science" to computer programming. There is joy in building, discovering, and sharing. 
+
 ### Special Info
 
 Table of Contents
@@ -41,14 +47,12 @@ Table of Contents
   
 ### Considerations
 
-Possible Galleries
+#### Possible Art Galleries
 
-<!--
-https://www.wichitaartmuseum.org/exhibitions/current | WAM [Exhibitions - Current Exhibitions]
-https://www.hutchinsonartcenter.net/what-we-do | What We Do — Hutchinson Art Center
-https://www.hutchinsonartcenter.net/contact-us | Hutchinson Art Center
-https://www.hutchgov.com/1225/Chamber-Art-Gallery | | Hutchinson, KS
--->
+* [Wichita Art Museum](https://www.wichitaartmuseum.org/)
+* [Hutchinson Art Center](https://www.hutchinsonartcenter.net/)
+* [Hutchinson Chamber Art Gallery](https://www.hutchgov.com/1225/Chamber-Art-Gallery)
+* [Stone House Gallery](https://www.fredoniakschamber.org/the-stone-house-gallery.html)
 
 ### Publicity
 
