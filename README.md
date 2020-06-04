@@ -1,4 +1,4 @@
-# Stanford Code in Place Exhibit
+# Stanford Code in Place Art Exhibit
 
 # Project
 
