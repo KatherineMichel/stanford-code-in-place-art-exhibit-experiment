@@ -8,7 +8,7 @@ For my [Stanford Code in Place Final Project](https://github.com/KatherineMichel
 
 As I looked at the images that were tweeted, I was awestruck by one in particular and considered it to be "found art." This gave me the idea of intentionally creating a small exhibit of algorithmically generated artwork. 
 
-In this repo, I have set up a similar bot called the [Stanford CiP (Code in Place) Art Bot](https://twitter.com/StanfordCiPArt). For the time being, this bot will apply the "negative" algorithm to photos that are interesting to me. I will curate the ones I believe to be the most aesthetically pleasing into an art exhibit.
+In this repo, I have set up a similar bot called the [Stanford CiP (Code in Place) Art Bot](https://twitter.com/StanfordCiPArt). For the time being, this bot will apply the "negative" algorithm to photos that are interesting to me. I chose the "negative" algorithm because in my opinion, it is the most likely to create an artistic effect. I will curate the photos I believe to be the most aesthetically pleasing into an art exhibit.
 
 This is an idea I've never of thought of before. I have no idea if it would be of interest to people who enjoy traditional art or if it would be considered some sort of sacrilege. 
 
@@ -55,13 +55,11 @@ This exhibit could be viewed online or in person.
 
 https://source.unsplash.com/
 
-### Photos Sources
+### Photos Sources Used
 
-#### Used
+1). https://unsplash.com/collections/461104/the-deep-(beneath-still-waters)
 
-* https://unsplash.com/collections/461104/the-deep-(beneath-still-waters)
-
-#### Possible
+#### Other Possible Photo Sources
 
 Collections
 * https://unsplash.com/collections/1262111/marine
