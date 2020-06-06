@@ -18,7 +18,7 @@ twitter = Twython(
 
 def main():   
     # Create the URL for the random image and set the image download path
-    # file_number = random.randrange(1, 355)
+    file_number = random.randrange(1, 355)
     file_url = "https://source.unsplash.com/collection/461104/" + str(file_number) + "/"
     file_path = str(file_number) + '.' + 'jpg'
     # file_path = 'photos/' + str(file_number) + '.' + 'jpg'
