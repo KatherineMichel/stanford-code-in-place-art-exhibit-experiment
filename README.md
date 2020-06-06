@@ -24,7 +24,9 @@ Table of Contents
 * [Connect](#connect)
 * [Exhibit Photos](#exhibit-photos)
 * [About](#about)
-  * [Possible Art Galleries](#possible-art-galleries)
+  * [Unsplash API](#unsplash-api)
+  * [Photo Sources Used](#photo-sources-used)
+  * [Other Possible Photo Sources](#other-possible-photo-sources)
 <!--
   * [Publicity](#publicity)
   * [Other Considerations](#other-considerations)
@@ -39,13 +41,9 @@ Table of Contents
 
 ## Connect
 
-:top: <sub>[**Back to Top**](#table-of-contents)</sub>
-
 ## Exhibit Photos
 
 TBD
-
-:top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
 ## About
   
@@ -107,13 +105,9 @@ Key Words
 - [X] Choose possible photo sources
 - [X] Get the bot up and running
 
-:top: <sub>[**Back to Top**](#table-of-contents)</sub>
-
 ## Code of Conduct
 
 Those who engage with this project are expected to follow my [Code of Conduct](https://github.com/KatherineMichel/.github/blob/master/CODE_OF_CONDUCT.md). 
-
-:top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
 ## Copyright
 
