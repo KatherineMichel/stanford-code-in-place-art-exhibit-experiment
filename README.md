@@ -8,13 +8,13 @@ For my [Stanford Code in Place Final Project](https://github.com/KatherineMichel
 
 As I looked at the images that were tweeted, I was awestruck by one in particular and considered it to be "found art." This gave me the idea of intentionally creating a small exhibit of algorithmically generated artwork. 
 
-In this repo, I have set up a similar bot called the [Stanford CiP (Code in Place) Art Bot](https://twitter.com/StanfordCiPArt). For the time being, this bot will apply the "negative" algorithm to other types of photos. I will curate the ones I believe to be the most aesthetically pleasing into an art exhibit.
+In this repo, I have set up a similar bot called the [Stanford CiP (Code in Place) Art Bot](https://twitter.com/StanfordCiPArt). For the time being, this bot will apply the "negative" algorithm to photos that are interesting to me. I will curate the ones I believe to be the most aesthetically pleasing into an art exhibit.
 
 This is an idea I've never of thought of before. I have no idea if it would be of interest to people who enjoy traditional art or if it would be considered some sort of sacrilege. 
 
 My intention would not be to "replace" traditional artwork. Artwork often reflects the human condition. That, by its very nature, simply cannot be replicated by a computer. I think paradoxically, by looking at artwork created by an algorithm, we can actually further examine and appreciate what the purpose and value of traditional artwork is. 
 
-However, "art" can mean many things. For example, people sometimes say there is an "art and a science" to computer programming. Believe it or not, there is a lot of decision-making and creativity in programming. My exhibit will be about the joy in building, inventing, discovering, and sharing, including "accidental" artwork. 
+On the other hand, "art" can mean many things. For example, people sometimes say that there is an "art and a science" to computer programming. Believe it or not, there is a lot of decision-making and creativity in programming. My exhibit will be about the joy in building, inventing, discovering, and sharing, including "accidental" artwork. 
 
 ### Special Info
 
@@ -49,7 +49,9 @@ Table of Contents
   
 ### Possible Art Galleries
 
-A list of galleries to approach to do a small exhibit. 
+This exhibit could be viewed online or in person.
+
+A list of possible art galleries to approach to do a small exhibit. 
 
 * [Wichita Art Museum](https://www.wichitaartmuseum.org/)
 * [Hutchinson Art Center](https://www.hutchinsonartcenter.net/)
