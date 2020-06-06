@@ -47,16 +47,7 @@ Table of Contents
 
 ## About
   
-### Possible Art Galleries
-
 This exhibit could be viewed online or in person.
-
-A list of possible art galleries to approach to do a small exhibit. 
-
-* [Wichita Art Museum](https://www.wichitaartmuseum.org/)
-* [Hutchinson Art Center](https://www.hutchinsonartcenter.net/)
-* [Hutchinson Chamber Art Gallery](https://www.hutchgov.com/1225/Chamber-Art-Gallery)
-* [Stone House Gallery](https://www.fredoniakschamber.org/the-stone-house-gallery.html)
 
 ### Unsplash API
 
