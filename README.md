@@ -1,4 +1,4 @@
-# Stanford Code in Place Art Exhibit
+# Stanford Code in Place Art Exhibit Experiment
 
 ![](demo-photos/favorite-negative.jpg)
 
