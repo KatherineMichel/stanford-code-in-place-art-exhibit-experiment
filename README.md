@@ -25,12 +25,14 @@ Table of Contents
 * [Exhibit Photos](#exhibit-photos)
 * [About](#about)
   * [Possible Art Galleries](#possible-art-galleries)
+<!--
   * [Publicity](#publicity)
   * [Other Considerations](#other-considerations)
 * [Additional Resources](#additional-resources)
 * [Demo Videos](#demo-videos)
   * [Short Demo Agenda](#short-demo-agenda)
   * [Long Demo Agenda](#long-demo-agenda)
+-->
 * [Milestones](#milestones)
 * [Code of Conduct](#code-of-conduct)
 * [License](#license)
@@ -81,6 +83,7 @@ Key Words
 * https://unsplash.com/s/photos/reef
 * https://unsplash.com/s/photos/creature
 
+<!--
 ### Publicity
 
 ### Considerations
@@ -98,6 +101,7 @@ Key Words
 ### Long Demo Agenda
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
+-->
 
 ## Milestones
 
