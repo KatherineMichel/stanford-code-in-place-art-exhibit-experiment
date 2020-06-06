@@ -22,7 +22,7 @@ Table of Contents
 -----------------
 
 * [Connect](#connect)
-* [Examples](#examples)
+* [Exhibit Photos](#exhibit-photos)
 * [About](#about)
   * [Possible Art Galleries](#possible-art-galleries)
   * [Publicity](#publicity)
@@ -32,7 +32,6 @@ Table of Contents
   * [Short Demo Agenda](#short-demo-agenda)
   * [Long Demo Agenda](#long-demo-agenda)
 * [Milestones](#milestones)
-  * [Milestone 1](#milestone-1)
 * [Code of Conduct](#code-of-conduct)
 * [License](#license)
 
@@ -40,7 +39,7 @@ Table of Contents
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
-## Examples
+## Exhibit Photos
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
