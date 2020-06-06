@@ -1,8 +1,8 @@
 # Stanford Code in Place Art Exhibit
 
-# Project
+## Stanford Code in Place Art Exhibit Bot
 
-Photo and credit, badges
+![](demo-photos/favorite-negative.jpg)
 
 ## Introduction
 
