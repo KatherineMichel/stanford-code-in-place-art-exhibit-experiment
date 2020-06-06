@@ -1,14 +1,14 @@
 # Stanford Code in Place Art Exhibit
 
-## Stanford Code in Place Art Exhibit Bot
-
 ![](demo-photos/favorite-negative.jpg)
 
 ## Introduction
 
 For my [Stanford Code in Place Final Project](https://github.com/KatherineMichel/stanford-code-in-place-final-project), I created a program that downloads a random pet photo from the Unsplash curated "Personable Pets" collection, modifies it with a randomly chosen image filter algorithm, and tweets the image on the [Simba Friends Bot](https://twitter.com/SimbaFriendsBot) Twitter account.
 
-As I looked at the images tweeted, I was awestruck by one in particular and considered it to be "found art." This gave me the idea of intentionally creating a small exhibit of algorithmically generated artwork. 
+As I looked at the images that were tweeted, I was awestruck by one in particular and considered it to be "found art." This gave me the idea of intentionally creating a small exhibit of algorithmically generated artwork. 
+
+In this repo, I have set up a similar bot called the [Stanford CiP (Code in Place) Art Bot](https://twitter.com/StanfordCiPArt). For the time being, this bot will apply the "negative" algorithm to other types of photos. I will curate the ones I believe to be the most aesthetically pleasing into an art exhibit.
 
 This is an idea I've never of thought of before. I have no idea if it would be of interest to people who enjoy traditional art or if it would be considered some sort of sacrilege. 
 
@@ -47,6 +47,8 @@ Table of Contents
 ## About
   
 ### Possible Art Galleries
+
+A list of galleries to approach to do a small exhibit. 
 
 * [Wichita Art Museum](https://www.wichitaartmuseum.org/)
 * [Hutchinson Art Center](https://www.hutchinsonartcenter.net/)
@@ -100,7 +102,9 @@ Key Words
 
 ## Milestones
 
-### Milestone 1
+- [X] Set up a basic README.md
+- [X] Choose possible photo sources
+- [X] Get the bot up and running
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
