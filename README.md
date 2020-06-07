@@ -40,7 +40,7 @@ Table of Contents
 * [Change Log](#change-log)
 * [Milestones](#milestones)
 * [Code of Conduct](#code-of-conduct)
-* [License](#license)
+* [Copyright](#copyright)
 
 ## Connect
 
