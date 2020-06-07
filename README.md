@@ -2,8 +2,6 @@
 
 ![Process Photo GitHub Action](https://action-badges.now.sh/KatherineMichel/stanford-code-in-place-art-exhibit-experiment)
 
-![](demo-photos/favorite-negative.jpg)
-
 ## Introduction
 
 For my [Stanford Code in Place Final Project](https://github.com/KatherineMichel/stanford-code-in-place-final-project), I created a program that downloads a random pet photo from the Unsplash curated "Personable Pets" collection, modifies it with a randomly chosen image filter algorithm, and tweets the image on the [Simba Friends Bot](https://twitter.com/SimbaFriendsBot) Twitter account.
@@ -46,7 +44,7 @@ Table of Contents
 
 ## Exhibit Photos
 
-TBD
+![](demo-photos/favorite-negative.jpg)
 
 ## About
   
