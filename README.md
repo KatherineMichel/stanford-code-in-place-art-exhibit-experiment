@@ -98,7 +98,7 @@ Key Words
 
 This project was inspired by a few other projects
 * [Jessica Garson's PyCon 2019 talk "Making Music with Python, SuperCollider and FoxDot"](https://youtu.be/YUIPcXduR8E)
-* [Joanne Hastie's "Programming a robot arm to paint: successes & happy accidents"](https://2020.pycascades.com/talks/programming-a-robot-arm-to-paint-successes-and-happy-accidents/)
+* [Joanne Hastie's PyCascades 2020 "Programming a robot arm to paint: successes & happy accidents"](https://2020.pycascades.com/talks/programming-a-robot-arm-to-paint-successes-and-happy-accidents/)
 
 ## Change Log
 
