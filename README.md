@@ -101,7 +101,7 @@ Key Words
 * Remove unused algorithms
 * Add `pass` statement in case the file already exists
 * Use black to format file
-* Add build passing badge
+* Add "build passing" badge
 
 ### June 5, 2020
 
