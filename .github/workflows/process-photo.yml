@@ -33,6 +33,9 @@ jobs:
         pip install Pillow
         pip install twython
         pip install black
+    - name: Run black
+      # Run black to format the file
+      run: black photo.py
     - name: Run python script
       env:	
         # Make the encrypted secrets stored in the repo settings available to the program
@@ -40,7 +43,5 @@ jobs:
         APP_SECRET: ${{ secrets.APP_SECRET }}	
         OAUTH_TOKEN: ${{ secrets.OAUTH_TOKEN }}	
         OAUTH_TOKEN_SECRET: ${{ secrets.OAUTH_TOKEN_SECRET }}
-      # Run black to format the file
-      run: black photo.py
       # Run the program
       run: python photo.py
