@@ -29,7 +29,6 @@ Table of Contents
   * [Other Possible Photo Sources](#other-possible-photo-sources)
 <!--
   * [Publicity](#publicity)
-  * [Other Considerations](#other-considerations)
 * [Additional Resources](#additional-resources)
 * [Demo Videos](#demo-videos)
   * [Short Demo Agenda](#short-demo-agenda)
@@ -82,10 +81,6 @@ Key Words
 <!--
 ### Publicity
 
-### Considerations
-
-:top: <sub>[**Back to Top**](#table-of-contents)</sub>
-
 ## Additional Resources
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
@@ -98,6 +93,15 @@ Key Words
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 -->
+
+## Change Log
+
+### June 6, 2020
+
+* Removed random URL generation (Unsplash automatically returns a random photo)
+* Removed unused algorithms
+* Added `pass` statement in case the file already exists
+* Used black and added black to GitHub Action workflow
 
 ## Milestones
 
