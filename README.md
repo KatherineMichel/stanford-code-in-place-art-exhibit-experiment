@@ -34,6 +34,7 @@ Table of Contents
   * [Short Demo Agenda](#short-demo-agenda)
   * [Long Demo Agenda](#long-demo-agenda)
 -->
+* [Change Log](#change-log)
 * [Milestones](#milestones)
 * [Code of Conduct](#code-of-conduct)
 * [License](#license)
@@ -83,15 +84,11 @@ Key Words
 
 ## Additional Resources
 
-:top: <sub>[**Back to Top**](#table-of-contents)</sub>
-
 ## Demo Videos
 
 ### Short Demo Agenda
 
 ### Long Demo Agenda
-
-:top: <sub>[**Back to Top**](#table-of-contents)</sub>
 -->
 
 ## Change Log
@@ -102,6 +99,12 @@ Key Words
 * Remove unused algorithms
 * Add `pass` statement in case the file already exists
 * Use black to format file
+
+### June 5, 2020
+
+* Get bot up and running
+* Set bot to use "Negative" Algorithm only
+* Set bot to use "The Deep (Beneath Still Waters) photo collection
 
 ## Milestones
 
