@@ -1,5 +1,7 @@
 # Stanford Code in Place Art Exhibit Experiment
 
+![Process Photo GitHub Action](https://action-badges.now.sh/KatherineMichel/stanford-code-in-place-art-exhibit-experiment)
+
 ![](demo-photos/favorite-negative.jpg)
 
 ## Introduction
@@ -99,6 +101,7 @@ Key Words
 * Remove unused algorithms
 * Add `pass` statement in case the file already exists
 * Use black to format file
+* Add build passing badge
 
 ### June 5, 2020
 
