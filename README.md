@@ -104,7 +104,7 @@ Key Words
 
 * Get bot up and running
 * Set bot to use "Negative" Algorithm only
-* Set bot to use "The Deep (Beneath Still Waters) photo collection
+* Set bot to use "The Deep (Beneath Still Waters)" photo collection
 
 ## Milestones
 
