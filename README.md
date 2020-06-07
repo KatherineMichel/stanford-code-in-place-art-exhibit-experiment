@@ -36,6 +36,7 @@ Table of Contents
   * [Short Demo Agenda](#short-demo-agenda)
   * [Long Demo Agenda](#long-demo-agenda)
 -->
+* [Inspiration](#inspiration)
 * [Change Log](#change-log)
 * [Milestones](#milestones)
 * [Code of Conduct](#code-of-conduct)
@@ -93,7 +94,17 @@ Key Words
 ### Long Demo Agenda
 -->
 
+## Inspiration
+
+This project was inspired by a few other projects
+* [Jessica Garson's PyCon 2019 talk "Making Music with Python, SuperCollider and FoxDot"](https://youtu.be/YUIPcXduR8E)
+* [Joanne Hastie's "Programming a robot arm to paint: successes & happy accidents"](https://2020.pycascades.com/talks/programming-a-robot-arm-to-paint-successes-and-happy-accidents/)
+
 ## Change Log
+
+### June 7, 2020
+
+* Added "Inspiration" section
 
 ### June 6, 2020
 
@@ -108,6 +119,7 @@ Key Words
 * Get bot up and running
 * Set bot to use "Negative" Algorithm only
 * Set bot to use "The Deep (Beneath Still Waters)" photo collection
+* Began building out README.md
 
 ## Milestones
 
