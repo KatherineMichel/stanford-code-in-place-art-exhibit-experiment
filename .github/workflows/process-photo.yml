@@ -32,10 +32,6 @@ jobs:
         pip install requests
         pip install Pillow
         pip install twython
-        pip install black
-    - name: Run black
-      # Run black to format the file
-      run: black photo.py
     - name: Run python script
       env:	
         # Make the encrypted secrets stored in the repo settings available to the program
