@@ -98,10 +98,10 @@ Key Words
 
 ### June 6, 2020
 
-* Removed random URL generation (Unsplash automatically returns a random photo)
-* Removed unused algorithms
-* Added `pass` statement in case the file already exists
-* Used black and added black to GitHub Action workflow
+* Remove random URL generation (Unsplash automatically returns a random photo)
+* Remove unused algorithms
+* Add `pass` statement in case the file already exists
+* Use black to format file
 
 ## Milestones
 
