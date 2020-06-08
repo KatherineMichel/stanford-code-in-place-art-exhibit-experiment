@@ -100,6 +100,10 @@ This project was inspired by a few other projects
 
 ## Change Log
 
+### June 8, 2020
+
+* Set cron job to every 15 minutes
+
 ### June 7, 2020
 
 * Added "Inspiration" section
