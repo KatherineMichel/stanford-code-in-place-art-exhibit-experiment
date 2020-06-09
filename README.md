@@ -46,6 +46,11 @@ Table of Contents
 
 ![](demo-photos/favorite-negative.jpg)
 
+### Favorites
+
+* https://twitter.com/StanfordCiPArt/status/1269180119077154817 
+* https://twitter.com/StanfordCiPArt/status/1269706410641764359
+
 ## About
   
 This exhibit could be viewed online or in person.
