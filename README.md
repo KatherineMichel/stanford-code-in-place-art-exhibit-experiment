@@ -105,6 +105,10 @@ This project was inspired by a few other projects
 
 ## Change Log
 
+### June 10, 2020
+
+* Set bot to "Marine" photo collection
+
 ### June 8, 2020
 
 * Set cron job to every 15 minutes
