@@ -102,6 +102,8 @@ A list of possible art galleries to approach to do a small exhibit.
 * [Hutchinson Chamber Art Gallery](https://www.hutchgov.com/1225/Chamber-Art-Gallery)
 * [Stone House Gallery](https://www.fredoniakschamber.org/the-stone-house-gallery.html)
 
+https://www.wichitaartmuseum.org/programs_events/calendar
+
 ### Publicity
 
 ## Additional Resources
