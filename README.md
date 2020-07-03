@@ -30,6 +30,8 @@ Table of Contents
   * [Photo Sources Used](#photo-sources-used)
   * [Other Possible Photo Sources](#other-possible-photo-sources)
 <!--
+* [Exhibit](#exhibit)
+  * [Possible Galleries](#possible-galleries)
   * [Publicity](#publicity)
 * [Additional Resources](#additional-resources)
 * [Demo Videos](#demo-videos)
@@ -89,6 +91,17 @@ Key Words
 * https://unsplash.com/s/photos/creature
 
 <!--
+## Exhibit
+
+### Possible Galleries
+
+A list of possible art galleries to approach to do a small exhibit. 
+
+* [Wichita Art Museum](https://www.wichitaartmuseum.org/)
+* [Hutchinson Art Center](https://www.hutchinsonartcenter.net/)
+* [Hutchinson Chamber Art Gallery](https://www.hutchgov.com/1225/Chamber-Art-Gallery)
+* [Stone House Gallery](https://www.fredoniakschamber.org/the-stone-house-gallery.html)
+
 ### Publicity
 
 ## Additional Resources
