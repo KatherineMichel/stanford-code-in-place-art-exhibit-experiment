@@ -63,13 +63,14 @@ https://source.unsplash.com/
 
 ### Photos Sources Used
 
-1). https://unsplash.com/collections/461104/the-deep-(beneath-still-waters)
+* https://unsplash.com/collections/461104/the-deep-(beneath-still-waters)
+* https://unsplash.com/collections/1262111/marine
+* https://unsplash.com/collections/1245/sea
 
 ### Other Possible Photo Sources
 
 Collections
-* https://unsplash.com/collections/1262111/marine
-* https://unsplash.com/collections/1245/sea
+* TBD
 
 Key Words
 * https://unsplash.com/s/photos/wildlife
