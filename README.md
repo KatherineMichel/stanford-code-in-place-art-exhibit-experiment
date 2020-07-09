@@ -68,6 +68,7 @@ https://source.unsplash.com/
 * https://unsplash.com/collections/461104/the-deep-(beneath-still-waters)
 * https://unsplash.com/collections/1262111/marine
 * https://unsplash.com/collections/1245/sea
+* https://unsplash.com/collections/181581/animals
 
 ### Other Possible Photo Sources
 
