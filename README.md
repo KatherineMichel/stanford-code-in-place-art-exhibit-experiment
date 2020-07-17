@@ -6,7 +6,9 @@
 
 For my [Stanford Code in Place Final Project](https://github.com/KatherineMichel/stanford-code-in-place-final-project), I created a program that downloads a random pet photo from the Unsplash curated "Personable Pets" collection, modifies it with a randomly chosen image filter algorithm, and tweets the image on the [Simba Friends Bot](https://twitter.com/SimbaFriendsBot) Twitter account.
 
-As I looked at the images that were tweeted, I was awestruck by one in particular and considered it to be "found art." It hadn't crossed my mind that I would accidentally create art. This gave me the idea of intentionally creating algorithmically generated artwork. 
+As I looked through the thousands of images that were tweeted, I was awestruck by one in particular that I thought looked like a piece of artwork. It hadn't crossed my mind that I would accidentally create artwork. 
+
+This gave me the idea to set up another bot to intentionally create algorithmically generated artwork. 
 
 In this repo, I have set up a similar bot called the [Stanford CiP (Code in Place) Art Bot](https://twitter.com/StanfordCiPArt). For the time being, this bot will apply the "negative" algorithm to photos that are interesting to me. I chose the "negative" algorithm because in my opinion, it is most likely to create an artistic effect. I will curate the photos I believe to be the most aesthetically pleasing into a small art exhibit.
 
