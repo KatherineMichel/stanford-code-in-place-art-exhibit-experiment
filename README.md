@@ -8,7 +8,7 @@ For my [Stanford Code in Place Final Project](https://github.com/KatherineMichel
 
 As I looked at the images that were tweeted, I was awestruck by one in particular and considered it to be "found art." It hadn't crossed my mind that I would accidentally create art. This gave me the idea of intentionally creating algorithmically generated artwork. 
 
-In this repo, I have set up a similar bot called the [Stanford CiP (Code in Place) Art Bot](https://twitter.com/StanfordCiPArt). For the time being, this bot will oapply the "negative" algorithm to photos that are interesting to me. I chose the "negative" algorithm because in my opinion, it is most likely to create an artistic effect. I will curate the photos I believe to be the most aesthetically pleasing into a small art exhibit.
+In this repo, I have set up a similar bot called the [Stanford CiP (Code in Place) Art Bot](https://twitter.com/StanfordCiPArt). For the time being, this bot will apply the "negative" algorithm to photos that are interesting to me. I chose the "negative" algorithm because in my opinion, it is most likely to create an artistic effect. I will curate the photos I believe to be the most aesthetically pleasing into a small art exhibit.
 
 Having never thought of this idea before, I have no idea if it would be of interested to people who enjoy traditional art or if it would be considered some sort of sacrilege. 
 
