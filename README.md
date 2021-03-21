@@ -126,6 +126,14 @@ This project was inspired by a few other projects
 
 ## Change Log
 
+### Marh 21, 2021
+
+* Set bot to "Marine" photo collection
+
+### July 16, 2020
+
+* Set bot to "The Deep (Beneath Still Waters)" photo collection
+
 ### June 10, 2020
 
 * Set bot to "Marine" photo collection
