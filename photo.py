@@ -18,7 +18,7 @@ twitter = Twython(
 
 def main():
     # Create the URL for the image (Unsplash returns a random image) and set the image download path
-    file_url = "https://source.unsplash.com/collection/461104/1/"
+    file_url = "https://source.unsplash.com/collection/181581/1/"
     file_path = "1.jpg"
 
     # If for some unknown reason, the file already exists, skip the next step
