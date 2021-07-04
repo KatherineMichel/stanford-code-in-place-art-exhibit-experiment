@@ -126,7 +126,7 @@ This project was inspired by a few other projects
 
 ## Change Log
 
-### Marh 21, 2021
+### March 21, 2021
 
 * Set bot to "Marine" photo collection
 
